@@ -1,0 +1,30 @@
+{
+  "name": "daveparslow-github-io",
+  "version": "0.0.1",
+  "description": "Dave Parslow's Homepage",
+  "main": "index.html",
+  "dependencies": {
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-scripts": "1.0.13"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daveparslow/daveparslow.github.io.git"
+  },
+  "keywords": [
+    "Homepage"
+  ],
+  "author": "Dave Parslow",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daveparslow/daveparslow.github.io/issues"
+  },
+  "homepage": "https://github.com/daveparslow/daveparslow.github.io#readme"
+}
